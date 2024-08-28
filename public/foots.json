@@ -1,0 +1,163 @@
+[
+    {
+      "Name": "Margherita Pizza",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/10.png",
+      "Food-Category": "Redcrab",
+      "Price": 12.99,
+      "Rating": 4.5,
+      "Details": "Classic pizza with fresh mozzarella, tomatoes, and basil."
+    },
+    {
+      "Name": "Spaghetti Carbonara",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/12.png",
+      "Food-Category": "Redcrab",
+      "Price": 14.99,
+      "Rating": 4.7,
+      "Details": "Creamy pasta with pancetta, egg, and Parmesan cheese."
+    },
+    {
+      "Name": "Caesar Salad",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/15.png",
+      "Food-Category": "Redcrab",
+      "Price": 8.99,
+      "Rating": 4.3,
+      "Details": "Crisp romaine lettuce, croutons, and Caesar dressing."
+    },
+    {
+      "Name": "Chicken Tikka Masala",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/16.png",
+      "Food-Category": "Redcrab",
+      "Price": 16.99,
+      "Rating": 4.8,
+      "Details": "Tender chicken cooked in a creamy spiced tomato sauce."
+    },
+    {
+      "Name": "Sushi Platter",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/10.png",
+      "Food-Category": "Shrimps",
+      "Price": 24.99,
+      "Rating": 4.9,
+      "Details": "Assortment of fresh sushi rolls and nigiri."
+    },
+    {
+      "Name": "Beef Tacos",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/11.png",
+      "Food-Category": "Shrimps",
+      "Price": 10.99,
+      "Rating": 4.4,
+      "Details": "Soft tortillas filled with seasoned beef, lettuce, and cheese."
+    },
+    {
+      "Name": "Cheeseburger",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/16.png",
+      "Food-Category": "Shrimps",
+      "Price": 11.99,
+      "Rating": 4.6,
+      "Details": "Juicy beef patty with melted cheddar and toppings."
+    },
+    {
+      "Name": "Pad Thai",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/14.png",
+      "Food-Category": "Lobster",
+      "Price": 13.99,
+      "Rating": 4.7,
+      "Details": "Stir-fried noodles with shrimp, tofu, and peanuts."
+    },
+    {
+      "Name": "Chocolate Lava Cake",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/12.png",
+      "Food-Category": "Lobster",
+      "Price": 7.99,
+      "Rating": 4.8,
+      "Details": "Rich chocolate cake with a gooey center."
+    },
+    {
+      "Name": "Greek Gyro",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/11.png",
+      "Food-Category": "Lobster",
+      "Price": 9.99,
+      "Rating": 4.4,
+      "Details": "Pita bread filled with grilled meat, tzatziki sauce, and veggies."
+    },
+    {
+      "Name": "Avocado Toast",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/10.png",
+      "Food-Category": "Vegetarian",
+      "Price": 8.49,
+      "Rating": 4.2,
+      "Details": "Toasted bread topped with smashed avocado and seasonings."
+    },
+    {
+      "Name": "Ramen Bowl",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/13.png",
+      "Food-Category": "Vegetarian",
+      "Price": 15.99,
+      "Rating": 4.7,
+      "Details": "Noodles in a savory broth with pork, eggs, and vegetables."
+    },
+    {
+      "Name": "French Croissant",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/16.png",
+      "Food-Category": "Vegetarian",
+      "Price": 4.99,
+      "Rating": 4.5,
+      "Details": "Buttery, flaky croissant with a golden crust."
+    },
+    {
+      "Name": "Falafel Wrap",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/1.png",
+      "Food-Category": "Vegetarian",
+      "Price": 9.99,
+      "Rating": 4.3,
+      "Details": "Spiced falafel balls wrapped with veggies and tahini."
+    },
+    {
+      "Name": "Buffalo Wings",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/2.png",
+      "Food-Category": "Lobster",
+      "Price": 12.49,
+      "Rating": 4.6,
+      "Details": "Crispy chicken wings coated in spicy buffalo sauce."
+    },
+    {
+      "Name": "Chicken Alfredo",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/3.png",
+      "Food-Category": "Lobster",
+      "Price": 14.49,
+      "Rating": 4.4,
+      "Details": "Creamy Alfredo pasta topped with grilled chicken."
+    },
+    {
+      "Name": "Vegetable Stir-Fry",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/4.png",
+      "Food-Category": "Shrimps",
+      "Price": 11.99,
+      "Rating": 4.2,
+      "Details": "Mixed vegetables sautéed with soy sauce and garlic."
+    },
+    {
+      "Name": "BBQ Ribs",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/5.png",
+      "Food Category": "Shrimps",
+      "Price": 18.99,
+      "Rating": 4.7,
+      "Details": "Slow-cooked ribs smothered in tangy barbecue sauce."
+    },
+    {
+      "Name": "Seafood Paella",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/5.png",
+      "Food Category": "Vegetarian",
+      "Price": 21.99,
+      "Rating": 4.8,
+      "Details": "Saffron rice with shrimp, mussels, and squid."
+    },
+    {
+      "Name": "Mango Smoothie",
+      "ImageUrl": "https://cafeu-react.netlify.app/img/product/6.png",
+      "Food Category": "Vegetarian",
+      "Price": 6.49,
+      "Rating": 4.5,
+      "Details": "Refreshing smoothie made with ripe mangoes and yogurt."
+    }
+  ]
+  
